@@ -3,3 +3,5 @@
 echo "Master Commit";
 
 echo "Branch 1 code";
+
+echo "New Code";
